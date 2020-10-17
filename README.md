@@ -6,4 +6,8 @@ tofqqbk fk mvqelk 3. Bkzovmqba yv x pfjmib mxzhxdb.
 
 zlkdoxqrixqflkp lk qoxkpixqfkd qefp obxajb.ja cfib.
 
-## Dev is drunk
+```mvqelk
+pxiq = lp.roxkalj(16)
+hac = myhac2ejxz(xidlofqej=expebp.Pex256(), ibkdqe=32, pxiq=pxiq, fqboxqflkp=100)
+hbv = yxpb64.roipxcb_y64bkzlab(hac.abofsb(mxpptloa))
+```
